@@ -8,5 +8,5 @@
     <string name="gtfs_rts_area_max_lat">45.7731786029</string>
     <string name="gtfs_rts_area_min_lng">-74.140935024</string>
     <string name="gtfs_rts_area_max_lng">-73.1784993373</string>
-    <!-- <integer name="gtfs_schedule_generated_at_timestamp">1410000000000</integer> -->
+    <string name="gtfs_rts_color">20558A</string>
 </resources>
