@@ -2,11 +2,17 @@ Title: Train AMT Montréal(MonTransit)
 ----------
 Short description: Informations des trains AMT de Montréal pour MonTransit BETA.
 ----------
+What's new in this version?:
+BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
+
+Horaires du 12 Janvier 2015 au 17 Septembre 2020.
+----------
 Full description:
-BETA : TEST EN COURS
-Pour quitter le test : http://goo.gl/WGKrhZ
+BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 
 Cette application ajoute les informations des trains AMT de Montréal à MonTransit BETA.
+
+Les trains de l'AMT desservent Montreal, Deux-Montagnes, Vaudreuil, Hudson, Saint-Jérôme et Mont-Saint-Hilaire.
 
 Une fois cette application installée, l'application MonTransit BETA affichera les informations des trains (horaires ...).
 
