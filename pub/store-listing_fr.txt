@@ -31,3 +31,6 @@ Cette application est gratuite et open-source :
 https://github.com/mtransitapps/ca-montreal-amt-train-android
 
 Cette application n'est pas associée à l'Agence Métropolitaine de Transport.
+
+Autorisations :
+- Autres : requis pour les états de service en temps réel
