@@ -5,16 +5,17 @@ Montreal AMT trains for MonTransit BETA.
 Schedule & Real-Time Service Statuses.
 ----------
 What's new in this version?:
-BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
-Real time service statuses.
 Schedule from January 12, 2015 to September 17, 2020.
+Tweets from @amt_info, @amt_CA, @amt_DM, @amt_SJ, @amt_MA, @amt_SH and @amt_VH.
+
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 ----------
 Full description:
-BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
-
 This app adds Montreal AMT train information to MonTransit BETA.
 
-This app provides the planned schedule as well as real time service statuses from amt.qc.ca.
+This app provides the planned schedule as well as real time service statuses from amt.qc.ca and the latest news from @amt_info, @amt_CA, @amt_DM, @amt_SJ, @amt_MA, @amt_SH and @amt_VH on Twitter.
+
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
 AMT trains serve Montreal, Deux-Montagnes, Vaudreuil, Hudson, Saint-Jérôme and Mont-Saint-Hilaire in Quebec, Canada.
 
@@ -33,7 +34,7 @@ https://github.com/mtransitapps/ca-montreal-amt-train-android
 This app is not related with the Agence Métropolitaine de Transport.
 
 Permissions:
-- Other: required for real-time service statuses
+- Other: required for real-time service statuses and to read news (Twitter)
 ----------
 Application type: Applications
 ----------
