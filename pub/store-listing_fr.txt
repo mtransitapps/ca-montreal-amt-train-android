@@ -1,4 +1,4 @@
-Title: Train AMT Montréal(MonTransit)
+Title: Train AMT Montréal - MonTrans…
 ----------
 Short description:
 Trains AMT de Montréal pour MonTransit BETA

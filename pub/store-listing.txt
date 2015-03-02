@@ -1,8 +1,8 @@
-Title: Montreal AMT Train(MonTransit)
+Title: Montreal AMT Train - MonTrans…
 ----------
 Short description:
-Montreal AMT trains for MonTransit BETA.
-Schedule & Real-Time Service Statuses.
+Montreal AMT trains for MonTransit BETA
+Schedule & Real-Time Service Statuses
 ----------
 What's new in this version?:
 Schedule from January 12, 2015 to September 17, 2020.
