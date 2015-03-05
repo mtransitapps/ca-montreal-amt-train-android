@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources">
-    <integer name="twitter_db_version">1</integer>
+    <integer name="twitter_db_version">2</integer>
     <string name="twitter_authority">org.mtransit.android.ca_montreal_amt_train.news.twitter</string>
     <string name="twitter_target_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="twitter_color">@string/gtfs_rts_color</string>
@@ -21,5 +21,14 @@
         <item>E2007A</item>
         <item>752f8A</item>
         <item>AA0534</item>
+    </string-array>
+    <string-array name="twitter_screen_names_target">
+        <item>@string/twitter_target_for_poi_authority</item>
+        <item>org.mtransit.android.ca_montreal_amt_train.gtfs-5</item>
+        <item>org.mtransit.android.ca_montreal_amt_train.gtfs-2</item>
+        <item>org.mtransit.android.ca_montreal_amt_train.gtfs-4</item>
+        <item>org.mtransit.android.ca_montreal_amt_train.gtfs-6</item>
+        <item>org.mtransit.android.ca_montreal_amt_train.gtfs-3</item>
+        <item>org.mtransit.android.ca_montreal_amt_train.gtfs-1</item>
     </string-array>
 </resources>
