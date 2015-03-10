@@ -11,7 +11,7 @@ Tweets from @amt_info, @amt_CA, @amt_DM, @amt_SJ, @amt_MA, @amt_SH and @amt_VH.
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 ----------
 Full description:
-This app adds Montreal AMT train information to MonTransit BETA.
+This app adds Montreal AMT trains information to MonTransit BETA.
 
 This app provides the planned schedule as well as real time service statuses from amt.qc.ca and the latest news from @amt_info, @amt_CA, @amt_DM, @amt_SJ, @amt_MA, @amt_SH and @amt_VH on Twitter.
 
@@ -19,7 +19,7 @@ BETA: Thanks for your patience while the last features are being added and the l
 
 AMT trains serve Montreal, Deux-Montagnes, Vaudreuil, Hudson, Saint-Jérôme and Mont-Saint-Hilaire in Quebec, Canada.
 
-Once this application is installed, the MonTransit BETA app will display train information (schedule...).
+Once this application is installed, the MonTransit BETA app will display trains information (schedule...).
 
 This application only has a temporary icon and no screen: download the MonTransit BETA app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
 
