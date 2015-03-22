@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources">
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays,TypographyDashes">
     <integer name="rss_db_version">1</integer>
     <string name="rss_authority">org.mtransit.android.ca_montreal_amt_train.news.rss</string>
     <string name="rss_target_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="rss_color">@string/gtfs_rts_color</string>
+    <bool name="rss_copy_to_file_instead_of_streaming">false</bool>
+    <string name="rss_encoding">utf-8</string>
     <string-array name="rss_feeds">
         <item>https://www.amt.qc.ca/rss?projection=1570</item>
         <item>https://www.amt.qc.ca/rss?projection=1568</item>
@@ -14,7 +16,7 @@
     </string-array>
     <string-array name="rss_feeds_author_url">
         <item>https://www.amt.qc.ca/fr/service-clientele/avis/train</item>
-        <item>https://amt.qc.ca/fr/actualites/nouvelles-evenements/nouvelles</item>
+        <item>https://www.amt.qc.ca/fr/actualites/nouvelles-evenements/nouvelles</item>
     </string-array>
     <string-array name="rss_feeds_label">
         <item>www.amt.qc.ca</item>
