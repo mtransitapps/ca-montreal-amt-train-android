@@ -2,10 +2,11 @@ Title: Train AMT Montréal - MonTrans…
 ----------
 Short description:
 Trains AMT de Montréal pour MonTransit BETA
-Horaires. État de service temps réel
+Horaires. État de service. Nouvelles
 ----------
 What's new in this version?:
 Horaires du 12 Janvier 2015 au 17 Septembre 2020.
+Nouvelles de www.amt.qc.ca.
 Tweets de @amt_info, @amt_CA, @amt_DM, @amt_SJ, @amt_MA, @amt_SH et @amt_VH.
 
 BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
@@ -13,7 +14,7 @@ BETA : Merci de votre patience pendant que les dernières fonctionnalités sont 
 Full description:
 Cette application ajoute les informations des trains AMT de Montréal à MonTransit BETA.
 
-L'app contient les horaires plannifiées ainsi que l'état de service en temps réel de amt.qc.ca et les dernières nouvelles de @amt_info, @amt_CA, @amt_DM, @amt_SJ, @amt_MA, @amt_SH et @amt_VH sur Twitter.
+L'app contient les horaires plannifiées ainsi que l'état de service en temps réel et les nouvelles de www.amt.qc.ca et @amt_info, @amt_CA, @amt_DM, @amt_SJ, @amt_MA, @amt_SH et @amt_VH sur Twitter.
 
 BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 
@@ -34,4 +35,4 @@ https://github.com/mtransitapps/ca-montreal-amt-train-android
 Cette application n'est pas associée à l'Agence Métropolitaine de Transport.
 
 Autorisations :
-- Autres : requis pour les états de service en temps réel et pour lire les nouvelles (Twitter)
+- Autres : requis pour les états de service en temps réel et pour lire les nouvelles de www.amt.qc.ca et Twitter.
