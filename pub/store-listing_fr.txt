@@ -1,28 +1,24 @@
 Title: Train AMT Montréal - MonTrans…
 ----------
 Short description:
-Trains AMT de Montréal pour MonTransit BETA
+Trains AMT de Montréal pour MonTransit
 Horaires. État de service. Nouvelles
 ----------
 What's new in this version?:
 Horaires du 12 Janvier 2015 au 17 Septembre 2020.
 Nouvelles de www.amt.qc.ca.
 Tweets de @amt_info, @amt_CA, @amt_DM, @amt_SJ, @amt_MA, @amt_SH et @amt_VH.
-
-BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 ----------
 Full description:
-Cette application ajoute les informations des trains AMT de Montréal à MonTransit BETA.
+Cette application ajoute les informations des trains AMT de Montréal à MonTransit.
 
 L'app contient les horaires plannifiées ainsi que l'état de service en temps réel et les nouvelles de www.amt.qc.ca, YouTube et @amt_info, @amt_CA, @amt_DM, @amt_SJ, @amt_MA, @amt_SH et @amt_VH sur Twitter.
 
-BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
-
 Les trains de l'AMT desservent Montreal, Deux-Montagnes, Vaudreuil, Hudson, Saint-Jérôme et Mont-Saint-Hilaire.
 
-Une fois cette application installée, l'application MonTransit BETA affichera les informations des trains (horaires ...).
+Une fois cette application installée, l'application MonTransit affichera les informations des trains (horaires ...).
 
-Cette application a seulement une icône temporaire et pas d'écran : télécharger l'app MonTransit BETA (gratuit) dans la section "Autres ..." ci-dessous ou en cliquant sur ce lien Google Play http://goo.gl/pCk5mV
+Cette application a seulement une icône temporaire et pas d'écran : télécharger l'app MonTransit (gratuit) dans la section "Autres ..." ci-dessous ou en cliquant sur ce lien Google Play http://goo.gl/pCk5mV
 
 Vous pouvez installer cette application sur la carte SD mais ce n'est pas recommandé.
 
