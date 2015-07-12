@@ -8,6 +8,8 @@ What's new in this version?:
 Horaires du 6 juillet 2015 au 17 septembre 2020.
 Nouvelles de www.amt.qc.ca.
 Tweets de @amt_info, @amt_CA, @amt_DM, @amt_SJ, @amt_MA, @amt_SH et @amt_VH.
+
+(favoris perdus : désolé pour le dérangement mais les identifiants des gares de trains ont du être modifié pour mieux correspondre à ceux des informations temps réel)
 ----------
 Full description:
 Cette application ajoute les informations des trains AMT de Montréal à MonTransit.
