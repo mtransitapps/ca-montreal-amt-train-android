@@ -8,8 +8,6 @@ What's new in this version?:
 Schedule from July 6, 2015 to September 17, 2020.
 News from www.amt.qc.ca.
 Tweets from @amt_info, @amt_CA, @amt_DM, @amt_SJ, @amt_MA, @amt_SH and @amt_VH.
-
-(lost favorites: sorry for the inconvenience but train station IDs had to be updated to better match real-time information IDs)
 ----------
 Full description:
 This app adds Montreal AMT trains information to MonTransit.
