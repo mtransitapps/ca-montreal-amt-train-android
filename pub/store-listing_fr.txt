@@ -5,7 +5,7 @@ Trains AMT de Montréal pour MonTransit
 Horaires. État de service. Nouvelles
 ----------
 What's new in this version?:
-Horaires du 6 juillet 2015 au 17 septembre 2020.
+Horaires du 6 juillet 2015 au 1 novembre 2015.
 Nouvelles de www.amt.qc.ca.
 Tweets de @amt_info, @amt_CA, @amt_DM, @amt_SJ, @amt_MA, @amt_SH et @amt_VH.
 ----------
