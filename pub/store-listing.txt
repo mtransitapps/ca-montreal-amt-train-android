@@ -5,7 +5,7 @@ Montreal AMT trains for MonTransit
 Schedule. Real-Time Service Status. News
 ----------
 What's new in this version?:
-Schedule from January 14, 2017 to September 17, 2020.
+Schedule from January 16, 2017 to September 17, 2020.
 News from www.amt.qc.ca.
 Tweets from @amt_info, @amt_CA, @amt_DM, @amt_SJ, @amt_MA, @amt_SH and @amt_VH.
 ----------
