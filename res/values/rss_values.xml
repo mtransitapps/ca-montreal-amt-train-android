@@ -7,8 +7,8 @@
     <bool name="rss_copy_to_file_instead_of_streaming">false</bool>
     <string name="rss_encoding">utf-8</string>
     <string-array name="rss_feeds">
-        <item>https://www.amt.qc.ca/rss?projection=1570</item>
-        <item>https://www.amt.qc.ca/rss?projection=1568</item>
+        <item>https://rtm.quebec/rss?projection=1570</item>
+        <item>https://rtm.quebec/rss?projection=1774</item>
     </string-array>
     <string-array name="rss_feeds_author_name">
         <item>AMT (Avis à la clientèle)</item>

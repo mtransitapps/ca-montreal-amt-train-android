@@ -1,20 +1,20 @@
-Title: Train AMT Montréal - MonTrans…
+Title: Train RTM Montréal - MonTrans…
 ----------
 Short description:
-Trains AMT de Montréal pour MonTransit
+Trains RTM de Montréal pour MonTransit
 Horaires. État de service. Nouvelles
 ----------
 What's new in this version?:
 Horaires du 16 janvier 2017 au 17 septembre 2020.
-Nouvelles de www.amt.qc.ca.
-Tweets de @amt_info, @amt_CA, @amt_DM, @amt_SJ, @amt_MA, @amt_SH et @amt_VH.
+Nouvelles de rtm.quebec.
+Tweets de @rtm_information, @rtm_CA, @rtm_DM, @rtm_SJ, @rtm_MA, @rtm_SH et @rtm_VH.
 ----------
 Full description:
-Cette application ajoute les informations des trains AMT de Montréal à MonTransit.
+Cette application ajoute les informations des trains RTM de Montréal à MonTransit.
 
-L'app contient les horaires planifiés ainsi que l'état de service en temps réel et les nouvelles de www.amt.qc.ca, YouTube et @amt_info, @amt_CA, @amt_DM, @amt_SJ, @amt_MA, @amt_SH et @amt_VH sur Twitter.
+L'app contient les horaires planifiés ainsi que l'état de service en temps réel et les nouvelles de rtm.quebec, YouTube et @rtm_information, @rtm_CA, @rtm_DM, @rtm_SJ, @rtm_MA, @rtm_SH et @rtm_VH sur Twitter.
 
-Les trains de l'AMT desservent Montreal, Deux-Montagnes, Vaudreuil, Hudson, Saint-Jérôme et Mont-Saint-Hilaire.
+Les trains du RTM desservent Montreal, Deux-Montagnes, Vaudreuil, Hudson, Saint-Jérôme et Mont-Saint-Hilaire.
 
 Une fois cette application installée, l'application MonTransit affichera les informations des trains (horaires ...).
 
@@ -22,13 +22,13 @@ Cette application a seulement une icône temporaire et pas d'écran : téléchar
 
 Vous pouvez installer cette application sur la carte SD mais ce n'est pas recommandé.
 
-Ces horaires sont générées à partir du fichier GTFS fourni par l'Agence Métropolitaine de Transport.
-https://www.amt.qc.ca/fr/a-propos/donnees-ouvertes
+Ces horaires sont générées à partir du fichier GTFS fourni le Réseau de Transport Métropolitain.
+https://rtm.quebec/fr/a-propos/donnees-ouvertes
 
 Cette application est gratuite et open-source : 
 https://github.com/mtransitapps/ca-montreal-amt-train-android
 
-Cette application n'est pas associée à l'Agence Métropolitaine de Transport.
+Cette application n'est pas associée au Réseau de Transport Métropolitain.
 
 Autorisations :
-- Autres : requis pour les états de service en temps réel et pour lire les nouvelles de www.amt.qc.ca, YouTube et Twitter.
+- Autres : requis pour les états de service en temps réel et pour lire les nouvelles de rtm.quebec, YouTube et Twitter.
