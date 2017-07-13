@@ -11,16 +11,16 @@
         <item>https://rtm.quebec/rss?projection=1774</item>
     </string-array>
     <string-array name="rss_feeds_author_name">
-        <item>AMT (Avis à la clientèle)</item>
-        <item>AMT (Nouvelles)</item>
+        <item>RTM (Avis à la clientèle)</item>
+        <item>RTM (Nouvelles)</item>
     </string-array>
     <string-array name="rss_feeds_author_url">
-        <item>https://www.amt.qc.ca/fr/service-clientele/avis/train</item>
-        <item>https://www.amt.qc.ca/fr/actualites/nouvelles-evenements/nouvelles</item>
+        <item>https://rtm.quebec/fr/service-clientele/avis/train</item>
+        <item>https://rtm.quebec/fr/actualites/nouvelles-evenements/nouvelles</item>
     </string-array>
     <string-array name="rss_feeds_label">
-        <item>www.amt.qc.ca</item>
-        <item>www.amt.qc.ca</item>
+        <item>rtm.quebec</item>
+        <item>rtm.quebec</item>
     </string-array>
     <string-array name="rss_feeds_lang">
         <item>@string/news_provider_language_unknown_show_all</item>
