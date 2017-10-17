@@ -5,7 +5,7 @@ Montreal RTM trains for MonTransit
 Schedule. Real-Time Service Status. News
 ----------
 What's new in this version?:
-Schedule from January 16, 2017 to September 17, 2020.
+Schedule from October 12, 2017 to September 17, 2020.
 News from rtm.quebec.
 Tweets from @rtm_information, @rtm_CA, @rtm_DM, @rtm_SJ, @rtm_MA, @rtm_SH and @rtm_VH.
 ----------
