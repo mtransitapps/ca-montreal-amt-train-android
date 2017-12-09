@@ -1,8 +1,8 @@
-Title: Train RTM Montréal - MonTransit
+Title: Train RTM (AMT) Montréal - MonTransit
 ----------
 Short description:
-Trains RTM de Montréal pour MonTransit
-Horaires. État de service. Nouvelles
+Trains RTM (AMT) de Montréal pour MonTransit
+Horaires. État de service Nouvelles
 ----------
 What's new in this version?:
 Horaires du 12 octobre 2017 au 17 septembre 2020.
@@ -10,7 +10,7 @@ Nouvelles de rtm.quebec.
 Tweets de @rtm_information, @rtm_CA, @rtm_DM, @rtm_SJ, @rtm_MA, @rtm_SH et @rtm_VH.
 ----------
 Full description:
-Cette application ajoute les informations des trains RTM de Montréal à MonTransit.
+Cette application ajoute les informations des trains RTM (AMT) de Montréal à MonTransit.
 
 L'app contient les horaires planifiés ainsi que l'état de service en temps réel et les nouvelles de rtm.quebec, YouTube et @rtm_information, @rtm_CA, @rtm_DM, @rtm_SJ, @rtm_MA, @rtm_SH et @rtm_VH sur Twitter.
 

@@ -1,8 +1,8 @@
-Title: Montreal RTM Train - MonTransit
+Title: Montreal RTM (AMT) Train - MonTransit
 ----------
 Short description:
-Montreal RTM trains for MonTransit
-Schedule. Real-Time Service Status. News
+Montreal RTM (AMT) trains for MonTransit
+Schedule. Real-Time Service Status News
 ----------
 What's new in this version?:
 Schedule from October 12, 2017 to September 17, 2020.
@@ -10,7 +10,7 @@ News from rtm.quebec.
 Tweets from @rtm_information, @rtm_CA, @rtm_DM, @rtm_SJ, @rtm_MA, @rtm_SH and @rtm_VH.
 ----------
 Full description:
-This app adds Montreal RTM trains information to MonTransit.
+This app adds Montreal RTM (AMT) trains information to MonTransit.
 
 This app provides the planned schedule as well as real time service statuses and news from rtm.quebec, YouTube and @rtm_information, @rtm_CA, @rtm_DM, @rtm_SJ, @rtm_MA, @rtm_SH and @rtm_VH on Twitter.
 
