@@ -5,13 +5,13 @@
     <string name="twitter_target_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="twitter_color">@string/gtfs_rts_color</string>
     <string-array name="twitter_screen_names">
-        <item>rtm_information</item>
-        <item>rtm_CA</item>
-        <item>rtm_DM</item>
-        <item>rtm_SJ</item>
-        <item>rtm_MA</item>
-        <item>rtm_SH</item>
-        <item>rtm_VH</item>
+        <item>_alloexo</item>
+        <item>exo4_CA</item>
+        <item>exo_6DM</item>
+        <item>exo2_SJ</item>
+        <item>exo5_MA</item>
+        <item>exo3_SH</item>
+        <item>exo1_VH</item>
     </string-array>
     <string-array name="twitter_screen_names_lang">
         <item>@string/news_provider_language_unknown_show_all</item>
