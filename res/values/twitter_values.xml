@@ -5,9 +5,9 @@
     <string name="twitter_target_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="twitter_color">@string/gtfs_rts_color</string>
     <string-array name="twitter_screen_names">
-        <item>_alloexo</item>
+        <item>allo_exo</item>
         <item>exo4_CA</item>
-        <item>exo_6DM</item>
+        <item>exo6_DM</item>
         <item>exo2_SJ</item>
         <item>exo5_MA</item>
         <item>exo3_SH</item>
