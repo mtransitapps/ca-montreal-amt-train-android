@@ -7,12 +7,12 @@ Schedule. Real-Time Service Status News
 What's new in this version?:
 Schedule from April 23, 2018 to June 23, 2018.
 News from rtm.quebec.
-Tweets from @_alloexo, @exo4_CA, @exo_6DM, @exo2_SJ, @exo5_MA, @exo3_SH and @exo1_VH.
+Tweets from @allo_exo, @exo4_CA, @exo6_DM, @exo2_SJ, @exo5_MA, @exo3_SH and @exo1_VH.
 ----------
 Full description:
 This app adds Montreal RTM (AMT) trains information to MonTransit.
 
-This app provides the planned schedule as well as real time service statuses and news from rtm.quebec, YouTube and @_alloexo, @exo4_CA, @exo_6DM, @exo2_SJ, @exo5_MA, @exo3_SH and @exo1_VH on Twitter.
+This app provides the planned schedule as well as real time service statuses and news from rtm.quebec, YouTube and @allo_exo, @exo4_CA, @exo6_DM, @exo2_SJ, @exo5_MA, @exo3_SH and @exo1_VH on Twitter.
 
 RTM trains serve Montreal, Deux-Montagnes, Vaudreuil, Hudson, Saint-Jérôme and Mont-Saint-Hilaire in Quebec, Canada.
 

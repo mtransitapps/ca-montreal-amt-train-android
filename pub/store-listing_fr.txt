@@ -7,12 +7,12 @@ Horaires. État de service Nouvelles
 What's new in this version?:
 Horaires du 23 avril 2018 au 23 juin 2018.
 Nouvelles de rtm.quebec.
-Tweets de @_alloexo, @exo4_CA, @exo_6DM, @exo2_SJ, @exo5_MA, @exo3_SH et @exo1_VH.
+Tweets de @allo_exo, @exo4_CA, @exo6_DM, @exo2_SJ, @exo5_MA, @exo3_SH et @exo1_VH.
 ----------
 Full description:
 Cette application ajoute les informations des trains RTM (AMT) de Montréal à MonTransit.
 
-L'app contient les horaires planifiés ainsi que l'état de service en temps réel et les nouvelles de rtm.quebec, YouTube et @_alloexo, @exo4_CA, @exo_6DM, @exo2_SJ, @exo5_MA, @exo1_VH et @exo3_SH sur Twitter.
+L'app contient les horaires planifiés ainsi que l'état de service en temps réel et les nouvelles de rtm.quebec, YouTube et @allo_exo, @exo4_CA, @exo6_DM, @exo2_SJ, @exo5_MA, @exo1_VH et @exo3_SH sur Twitter.
 
 Les trains du RTM desservent Montreal, Deux-Montagnes, Vaudreuil, Hudson, Saint-Jérôme et Mont-Saint-Hilaire.
 
