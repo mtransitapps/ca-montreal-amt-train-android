@@ -24,12 +24,12 @@
     </string-array>
     <string-array name="twitter_screen_names_colors">
         <item>@string/twitter_color</item>
-        <item>646569</item>
-        <item>00A1AF</item>
-        <item>76B830</item>
-        <item>E2007A</item>
-        <item>752f8A</item>
-        <item>AA0534</item>
+        <item>FF9933</item>
+        <item>0071B9</item>
+        <item>00793B</item>
+        <item>EC008C</item>
+        <item>4E0063</item>
+        <item>D31C1B</item>
     </string-array>
     <string-array name="twitter_screen_names_target">
         <item>@string/twitter_target_for_poi_authority</item>
