@@ -5,7 +5,7 @@ Trains RTM (AMT) de Montréal pour MonTransit
 Horaires. État de service Nouvelles
 ----------
 What's new in this version?:
-Horaires du 24 juin 2018 au 24 juin 2020.
+Horaires du 24 juin 2018 au 23 juin 2020.
 Nouvelles de rtm.quebec.
 Tweets de @allo_exo, @exo4_CA, @exo6_DM, @exo2_SJ, @exo5_MA, @exo3_SH et @exo1_VH.
 ----------
