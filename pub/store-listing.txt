@@ -5,7 +5,7 @@ Montreal RTM (AMT) trains for MonTransit
 Schedule. Real-Time Service Status News
 ----------
 What's new in this version?:
-Schedule from June 24, 2018 to June 23, 2020.
+Schedule from June 24, 2018 to June 24, 2020.
 News from rtm.quebec.
 Tweets from @allo_exo, @exo4_CA, @exo6_DM, @exo2_SJ, @exo5_MA, @exo3_SH and @exo1_VH.
 ----------
