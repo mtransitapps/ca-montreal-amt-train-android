@@ -1,4 +1,4 @@
-# Montréal RTM Train for [MonTransit](https://github.com/mtransitapps/mtransit-for-android)
+# Montréal exo Train for [MonTransit](https://github.com/mtransitapps/mtransit-for-android)
 
 <img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-montreal-amt-train-android/master/pub/hi-res-app-icon.png"/>
 
