@@ -12,9 +12,9 @@
         <item>https://rtm.quebec/rss?projection=1973</item>
     </string-array>
     <string-array name="rss_feeds_author_name">
-        <item>RTM (Avis à la clientèle)</item>
-        <item>RTM (Nouvelles)</item>
-        <item>RTM (Communiqués de presse)</item>
+        <item>exo (Avis à la clientèle)</item>
+        <item>exo (Nouvelles)</item>
+        <item>exo (Communiqués de presse)</item>
     </string-array>
     <string-array name="rss_feeds_author_url">
         <item>https://rtm.quebec/fr/service-clientele/avis</item>
