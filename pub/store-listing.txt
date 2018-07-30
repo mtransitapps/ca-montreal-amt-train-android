@@ -6,7 +6,7 @@ Schedule. Real-Time Service Status. News.
 ----------
 What's new in this version?:
 (AMT => RTM => exo)
-Schedule from June 24, 2018 to June 23, 2020.
+Schedule from June 24, 2018 to August 19, 2018.
 News from rtm.quebec.
 Tweets from @allo_exo, @exo4_CA, @exo6_DM, @exo2_SJ, @exo5_MA, @exo3_SH and @exo1_VH.
 ----------
