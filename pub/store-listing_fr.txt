@@ -6,7 +6,7 @@ Horaires. État de service. Nouvelles.
 ----------
 What's new in this version?:
 (AMT => RTM => exo)
-Horaires du 24 juin 2018 au 19 août 2018.
+Horaires du 24 juin 2018 au 23 juin 2025.
 Nouvelles de rtm.quebec.
 Tweets de @allo_exo, @exo4_CA, @exo6_DM, @exo2_SJ, @exo5_MA, @exo3_SH et @exo1_VH.
 ----------
