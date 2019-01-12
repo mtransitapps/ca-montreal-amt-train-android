@@ -7,13 +7,13 @@ Horaires. État de service. Nouvelles.
 What's new in this version?:
 (AMT => RTM => exo)
 Horaires du 20 août 2018 au 23 juin 2025.
-Nouvelles de rtm.quebec.
+Nouvelles de exo.quebec.
 Tweets de @allo_exo, @exo4_CA, @exo6_DM, @exo2_SJ, @exo5_MA, @exo3_SH et @exo1_VH.
 ----------
 Full description:
 Cette application ajoute les informations des trains exo de Montréal à MonTransit.
 
-L'app contient les horaires planifiés ainsi que l'état de service en temps réel et les nouvelles de rtm.quebec, YouTube et @allo_exo, @exo4_CA, @exo6_DM, @exo2_SJ, @exo5_MA, @exo1_VH et @exo3_SH sur Twitter.
+L'app contient les horaires planifiés ainsi que l'état de service en temps réel et les nouvelles de exo.quebec, YouTube et @allo_exo, @exo4_CA, @exo6_DM, @exo2_SJ, @exo5_MA, @exo1_VH et @exo3_SH sur Twitter.
 
 Les trains exo desservent Montreal, Deux-Montagnes, Vaudreuil, Hudson, Saint-Jérôme, Mont-Saint-Hilaire, Candiac et Mascouche au Québec, Canada.
 
@@ -23,8 +23,8 @@ Cette application a seulement une icône temporaire et pas d'écran : téléchar
 
 Vous pouvez installer cette application sur la carte SD mais ce n'est pas recommandé.
 
-Ces horaires sont générées à partir du fichier GTFS fourni par le Réseau de Transport Métropolitain (RTM).
-https://rtm.quebec/fr/a-propos/donnees-ouvertes
+Ces horaires sont générées à partir du fichier GTFS fourni pa exo - Réseau de Transport Métropolitain.
+https://exo.quebec/fr/a-propos/donnees-ouvertes
 
 Cette application est gratuite et open-source : 
 https://github.com/mtransitapps/ca-montreal-amt-train-android
@@ -34,4 +34,4 @@ Cette application n'est pas associée au Réseau de Transport Métropolitain (RT
 exo était précédemment connu sou le nom de Réseau de Transport Métropolitain (RTM) et Agence Métropolitaine de Transport (AMT).
 
 Autorisations :
-- Autres : requis pour les états de service en temps réel et pour lire les nouvelles de rtm.quebec, YouTube et Twitter.
+- Autres : requis pour les états de service en temps réel et pour lire les nouvelles de exo.quebec, YouTube et Twitter.
