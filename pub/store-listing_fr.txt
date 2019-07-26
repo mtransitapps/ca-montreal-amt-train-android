@@ -6,7 +6,7 @@ Horaires. État de service. Nouvelles.
 ----------
 What's new in this version?:
 (AMT => RTM => exo)
-Horaires du 9 mai 2019 au 31 décembre 2019.
+Horaires du 21 mai 2019 au 31 décembre 2019.
 Nouvelles de exo.quebec.
 Tweets de @allo_exo, @exo4_CA, @exo6_DM, @exo2_SJ, @exo5_MA, @exo3_SH et @exo1_VH.
 ----------
