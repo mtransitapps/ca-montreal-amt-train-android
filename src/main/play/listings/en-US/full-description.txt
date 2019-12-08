@@ -1,16 +1,3 @@
-Title: Montreal exo Train - MonTransit
-----------
-Short description:
-Montreal exo trains for MonTransit.
-Schedule. Real-Time Service Status. News.
-----------
-What's new in this version?:
-(AMT => RTM => exo)
-Schedule from October 21, 2019 to December 31, 2019.
-News from exo.quebec.
-Tweets from @allo_exo, @exo4_CA, @exo6_DM, @exo2_SJ, @exo5_MA, @exo3_SH and @exo1_VH.
-----------
-Full description:
 This app adds Montreal exo trains information to MonTransit.
 
 This app provides the planned schedule as well as real time service statuses and news from exo.quebec, YouTube and @allo_exo, @exo4_CA, @exo6_DM, @exo2_SJ, @exo5_MA, @exo3_SH and @exo1_VH on Twitter.
@@ -19,7 +6,7 @@ exo trains serve Montreal, Deux-Montagnes, Vaudreuil, Hudson, Saint-Jérôme, Mo
 
 Once this application is installed, the MonTransit app will display trains information (schedule...).
 
-This application only has a temporary icon and no screen: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+This application only has a temporary icon: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 
@@ -35,17 +22,3 @@ exo was formerly known as Réseau de Transport Métropolitain (RTM) and Agence M
 
 Permissions:
 - Other: required for real-time service statuses and to read news from exo.quebec, YouTube and Twitter
-----------
-Application type: Applications
-----------
-Category: Transportation
-----------
-Content rating: Low Maturity
-----------
-Website: https://github.com/mtransitapps/ca-montreal-amt-train-android
-----------
-Email: mtransit.apps+GooglePlay@gmail.com
-----------
-Phone: 
-----------
-Privacy Policy: https://github.com/mtransitapps/mtransit-for-android/wiki/PrivacyPolicy
