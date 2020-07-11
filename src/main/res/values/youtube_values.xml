@@ -13,6 +13,9 @@
     <string-array name="youtube_channels_uploads_playlist_id">
         <item>UUg5vJLDYjceupbrnaEQ6GQg</item>
     </string-array>
+    <string-array name="youtube_channels_author_icon">
+        <item>https://yt3.ggpht.com/a/AATXAJwMBEmOk5l_utSi8FhOvu1ZDji4Q_I2v85Col2uLA=s88-c-k-c0xffffffff-no-rj-mo</item>
+    </string-array>
     <string-array name="youtube_channels_author_name">
         <item>@string/gtfs_rts_short_name</item>
     </string-array>
