@@ -12,6 +12,11 @@
         <item>https://exo.quebec/rss?projection=1773</item>
         <item>https://exo.quebec/rss?projection=1973</item>
     </string-array>
+    <string-array name="rss_feeds_author_icon">
+        <item>https://exo.quebec/Media/Default/favicon/favicon.ico</item>
+        <item>https://exo.quebec/Media/Default/favicon/favicon.ico</item>
+        <item>https://exo.quebec/Media/Default/favicon/favicon.ico</item>
+    </string-array>
     <string-array name="rss_feeds_author_name">
         <item>exo (Avis à la clientèle)</item>
         <item>exo (Nouvelles)</item>
