@@ -1,2 +1,1 @@
-Montreal exo trains for MonTransit.
-Schedule. Real-Time Service Status. News.
+Montreal exo trains for MonTransit. Schedule. Real-Time Service Status. News.

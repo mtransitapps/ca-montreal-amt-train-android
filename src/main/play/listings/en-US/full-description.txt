@@ -1,12 +1,12 @@
 This app adds Montreal exo trains information to MonTransit.
 
-This app provides the planned schedule as well as real time service statuses and news from exo.quebec, YouTube and @allo_exo, @exo4_CA, @exo6_DM, @exo2_SJ, @exo5_MA, @exo3_SH and @exo1_VH on Twitter.
+This app provides the planned schedule as well as real time service statuses and news from exo.quebec and @allo_exo, @exo4_CA, @exo6_DM, @exo2_SJ, @exo5_MA, @exo3_SH and @exo1_VH on Twitter.
 
 exo trains serve Montreal, Deux-Montagnes, Vaudreuil, Hudson, Saint-Jérôme, Mont-Saint-Hilaire, Candiac and Mascouche in Quebec, Canada.
 
 Once this application is installed, the MonTransit app will display trains information (schedule...).
 
-This application only has a temporary icon: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+This application only has a temporary icon: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link https://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 
@@ -21,4 +21,4 @@ This app is not related with the Réseau de Transport Métropolitain (RTM), the 
 exo was formerly known as Réseau de Transport Métropolitain (RTM) and Agence Métropolitaine de Transport (AMT).
 
 Permissions:
-- Other: required for real-time service statuses and to read news from exo.quebec, YouTube and Twitter
+- Other: required for real-time service statuses and to read news from exo.quebec and Twitter

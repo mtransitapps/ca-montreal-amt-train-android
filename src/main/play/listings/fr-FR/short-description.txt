@@ -1,2 +1,1 @@
-Trains exo de Montréal pour MonTransit.
-Horaires. État de service. Nouvelles.
+Trains exo de Montréal pour MonTransit. Horaires. État de service. Nouvelles.
