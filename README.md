@@ -8,15 +8,15 @@
 
 ## Screenshots
 
+<p float="left">
 <img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-montreal-amt-train-android/master/src/main/play/listings/en-US/graphics/phone-screenshots/1.png"/>
 <img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-montreal-amt-train-android/master/src/main/play/listings/en-US/graphics/phone-screenshots/2.png"/>
 <img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-montreal-amt-train-android/master/src/main/play/listings/en-US/graphics/phone-screenshots/3.png"/>
+</p>
 
 ## Social
 
 * [Facebook](https://www.facebook.com/MonTransit)
-
-* [Google+](http://gplus.to/MonTransit/)
 
 * [Twitter](https://twitter.com/montransit)
 
