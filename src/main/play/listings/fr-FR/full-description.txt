@@ -1,6 +1,6 @@
 Cette application ajoute les informations des trains exo de Montréal à MonTransit.
 
-L'app contient les horaires planifiés ainsi que l'état de service en temps réel et les nouvelles de exo.quebec et @allo_exo, @exo4_CA, @exo6_DM, @exo2_SJ, @exo5_MA, @exo1_VH et @exo3_SH sur Twitter.
+L'app contient les horaires planifiés ainsi que l'état de service en temps réel et les nouvelles de exo.quebec et @allo_exo, @exo11_VH, @exo12_SJ, @exo13_SH @exo14_CA et @exo15_MA sur Twitter.
 
 Les trains exo desservent Montreal, Deux-Montagnes, Vaudreuil, Hudson, Saint-Jérôme, Mont-Saint-Hilaire, Candiac et Mascouche au Québec, Canada.
 
