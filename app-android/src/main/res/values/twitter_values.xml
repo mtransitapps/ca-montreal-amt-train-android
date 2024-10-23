@@ -11,6 +11,14 @@
         <item>exo13_SH</item>
         <item>exo11_VH</item>
     </string-array>
+    <string-array name="twitter_screen_names_id">
+        <item>245789900</item>
+        <item>479694540</item>
+        <item>1580564522</item>
+        <item>2328966667</item>
+        <item>479698184</item>
+        <item>478973820</item>
+    </string-array>
     <string-array name="twitter_screen_names_lang">
         <item>@string/news_provider_language_unknown_show_all</item>
         <item>@string/news_provider_language_unknown_show_all</item>
