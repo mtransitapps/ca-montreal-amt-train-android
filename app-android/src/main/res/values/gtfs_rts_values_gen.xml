@@ -3,4 +3,5 @@
     <integer name="gtfs_rts_agency_type">2</integer>
     <string name="gtfs_rts_timezone">America/Montreal</string>
     <string name="gtfs_rts_color">1F1F1F</string>
+    <string name="gtfs_rts_stop_id_cleanup_regex">\\w{1}$</string>
 </resources>
