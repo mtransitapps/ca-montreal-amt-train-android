@@ -1,8 +1,10 @@
-'TRAIN-H25-TRKPI-Dimanche-01',100,120000,,'',0,40000,,'',0,31500,,'',0
-'TRAIN-H25-TRKPI-Dimanche-01',101,135800,0,'Vaudreuil',0,40000,0,'Vaudreuil',0,27000,0,'Vaudreuil',0
+'TRAIN-H25-TRKPI-Dimanche-02',100,120000,,'',0,40000,,'',0,31500,,'',0
+'TRAIN-H25-TRKPI-Dimanche-02',101,135800,0,'Vaudreuil',0,40000,0,'Vaudreuil',0,27000,0,'Vaudreuil',0
 'TRAIN-H25-TRKPI-Fête-1-01',100,120000,,'',0,40000,,'',0,31500,,'',0
 'TRAIN-H25-TRKPI-Fête-1-01',101,135800,0,'Vaudreuil',0,40000,0,'Vaudreuil',0,27000,0,'Vaudreuil',0
-'TRAIN-H25-TRKPI-Samedi-01',100,83000,,'',0,30000,,'',0,50000,,'',0,30000,,'',0
-'TRAIN-H25-TRKPI-Samedi-01',101,95800,0,'Vaudreuil',0,40000,0,'Vaudreuil',0,40000,0,'Vaudreuil',0,50000,0,'Vaudreuil',0
-'TRAIN-H25-TRKPI-Semaine-02',100,61600,,'',0,3900,,'',0,6000,,'',0,1200,,'',0,1700,,'',0,5600,,'',0,1500,,'',0,2500,,'',0,1100,,'',0,29300,,'',0,28000,,'',0,29900,,'',0,30100,,'',0
-'TRAIN-H25-TRKPI-Semaine-02',101,73100,0,'Vaudreuil',0,8400,0,'Beaconsfield',0,21200,0,'Vaudreuil',0,27400,0,'Vaudreuil',0,24100,0,'Vaudreuil',0,7500,0,'Vaudreuil',0,3500,0,'Vaudreuil',0,6000,,'',0,1900,0,'Vaudreuil',0,2200,,'',0,5800,0,'Vaudreuil',0,2500,,'',0,6500,0,'Vaudreuil',0,24500,0,'Vaudreuil',0
+'TRAIN-H25-TRKPI-Samedi-02',100,83000,,'',0,30000,,'',0,50000,,'',0,30000,,'',0
+'TRAIN-H25-TRKPI-Samedi-02',101,95800,0,'Vaudreuil',0,40000,0,'Vaudreuil',0,40000,0,'Vaudreuil',0,50000,0,'Vaudreuil',0
+'TRAIN-H25-TRKPI-Semaine-07',100,61600,,'',0,3900,,'',0,6000,,'',0,1200,,'',0,1700,,'',0,5600,,'',0,1500,,'',0,2500,,'',0,1100,,'',0,29300,,'',0,28000,,'',0,29900,,'',0,30100,,'',0
+'TRAIN-H25-TRKPI-Semaine-07',101,73100,0,'Vaudreuil',0,8400,0,'Beaconsfield',0,21200,0,'Vaudreuil',0,27400,0,'Vaudreuil',0,24100,0,'Vaudreuil',0,7500,0,'Vaudreuil',0,3500,0,'Vaudreuil',0,6000,,'',0,1900,0,'Vaudreuil',0,2200,,'',0,5800,0,'Vaudreuil',0,2500,,'',0,6500,0,'Vaudreuil',0,24500,0,'Vaudreuil',0
+'TRAIN-H25-TRKPI-Semaine-08',100,61600,,'',0,3900,,'',0,6000,,'',0,1200,,'',0,1700,,'',0,5600,,'',0,1500,,'',0,2500,,'',0,1100,,'',0,29300,,'',0,28000,,'',0,29900,,'',0,30100,,'',0
+'TRAIN-H25-TRKPI-Semaine-08',101,73100,0,'Vaudreuil',0,8400,0,'Beaconsfield',0,21200,0,'Vaudreuil',0,27400,0,'Vaudreuil',0,24100,0,'Vaudreuil',0,7500,0,'Vaudreuil',0,3500,0,'Vaudreuil',0,6000,,'',0,1900,0,'Vaudreuil',0,2200,,'',0,5800,0,'Vaudreuil',0,2500,,'',0,6500,0,'Vaudreuil',0,24500,0,'Vaudreuil',0
