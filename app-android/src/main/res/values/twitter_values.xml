@@ -1,62 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays,Typos">
-    <integer name="twitter_db_version">7</integer>
+    <integer name="twitter_db_version">8</integer>
     <string name="twitter_target_for_poi_authority">@string/gtfs_rts_authority</string>
-    <string name="twitter_color">@string/gtfs_rts_color</string>
     <string-array name="twitter_screen_names">
-        <!-- <item>allo_exo</item> --><!-- similar to RSS-->
-        <!-- <item>exo14_CA</item> -->
-        <!-- <item>exo12_SJ</item> -->
-        <!-- <item>exo15_MA</item> -->
-        <!-- <item>exo13_SH</item> -->
-        <!-- <item>exo11_VH</item> -->
+        <item>exo14_CA</item>
+        <item>exo12_SJ</item>
+        <item>exo15_MA</item>
+        <item>exo13_SH</item>
+        <item>exo11_VH</item>
+        <item>allo_exo</item><!-- similar to RSS-->
     </string-array>
     <string-array name="twitter_screen_names_id">
-        <!-- <item>245789900</item> -->
-        <!-- <item>479694540</item> -->
-        <!-- <item>1580564522</item> -->
-        <!-- <item>2328966667</item> -->
-        <!-- <item>479698184</item> -->
-        <!-- <item>478973820</item> -->
-    </string-array>
-    <string-array name="twitter_screen_names_lang">
-        <!-- <item>@string/news_provider_language_unknown_show_all</item> -->
-        <!-- <item>@string/news_provider_language_unknown_show_all</item> -->
-        <!-- <item>@string/news_provider_language_unknown_show_all</item> -->
-        <!-- <item>@string/news_provider_language_unknown_show_all</item> -->
-        <!-- <item>@string/news_provider_language_unknown_show_all</item> -->
-        <!-- <item>@string/news_provider_language_unknown_show_all</item> -->
+        <item>479694540</item>
+        <item>1580564522</item>
+        <item>2328966667</item>
+        <item>479698184</item>
+        <item>478973820</item>
+        <item>245789900</item>
     </string-array>
     <string-array name="twitter_screen_names_colors">
-        <!-- <item>@string/twitter_color</item> -->
-        <!-- <item>5AB6B2</item> -->
-        <!-- <item>A2D586</item> -->
-        <!-- <item>CA5898</item> -->
-        <!-- <item>999AC6</item> -->
-        <!-- <item>F16179</item> -->
+        <item>5AB6B2</item>
+        <item>A2D586</item>
+        <item>CA5898</item>
+        <item>999AC6</item>
+        <item>F16179</item>
+        <item>@string/twitter_color</item>
     </string-array>
     <string-array name="twitter_screen_names_target">
-        <!-- <item>@string/twitter_target_for_poi_authority</item> -->
-        <!--<item>org.mtransit.android.ca_montreal_amt_train.gtfs-5</item> --><!-- 14 -->
-        <!--<item>org.mtransit.android.ca_montreal_amt_train.gtfs-4</item> --><!-- 12 -->
-        <!--<item>org.mtransit.android.ca_montreal_amt_train.gtfs-6</item> --><!-- 15 -->
-        <!--<item>org.mtransit.android.ca_montreal_amt_train.gtfs-3</item> --><!-- 13 -->
-        <!--<item>org.mtransit.android.ca_montreal_amt_train.gtfs-1</item> --><!-- 11 -->
+        <item>org.mtransit.android.ca_montreal_amt_train.gtfs-5</item><!-- 14. CA -->
+        <item>org.mtransit.android.ca_montreal_amt_train.gtfs-4</item><!-- 12. SJ -->
+        <item>org.mtransit.android.ca_montreal_amt_train.gtfs-6</item><!-- 15. MA -->
+        <item>org.mtransit.android.ca_montreal_amt_train.gtfs-3</item><!-- 13. SH -->
+        <item>org.mtransit.android.ca_montreal_amt_train.gtfs-1</item><!-- 11. VH -->
+        <item>@string/twitter_target_for_poi_authority</item>
     </string-array>
     <integer-array name="twitter_screen_names_severity">
-        <!-- <item>@integer/news_provider_severity_info_agency</item> -->
-        <!-- <item>@integer/news_provider_severity_warning_related_poi</item> -->
-        <!-- <item>@integer/news_provider_severity_warning_related_poi</item> -->
-        <!-- <item>@integer/news_provider_severity_warning_related_poi</item> -->
-        <!-- <item>@integer/news_provider_severity_warning_related_poi</item> -->
-        <!-- <item>@integer/news_provider_severity_warning_related_poi</item> -->
+        <item>@integer/news_provider_severity_warning_related_poi</item>
+        <item>@integer/news_provider_severity_warning_related_poi</item>
+        <item>@integer/news_provider_severity_warning_related_poi</item>
+        <item>@integer/news_provider_severity_warning_related_poi</item>
+        <item>@integer/news_provider_severity_warning_related_poi</item>
+        <item>@integer/news_provider_severity_info_agency</item>
     </integer-array>
     <string-array name="twitter_screen_names_noteworthy">
-        <!-- <item>@string/news_provider_noteworthy_long_term</item> -->
-        <!-- <item>@string/news_provider_noteworthy_info</item> -->
-        <!-- <item>@string/news_provider_noteworthy_info</item> -->
-        <!-- <item>@string/news_provider_noteworthy_info</item> -->
-        <!-- <item>@string/news_provider_noteworthy_info</item> -->
-        <!-- <item>@string/news_provider_noteworthy_info</item> -->
+        <item>@string/news_provider_noteworthy_warning</item>
+        <item>@string/news_provider_noteworthy_warning</item>
+        <item>@string/news_provider_noteworthy_warning</item>
+        <item>@string/news_provider_noteworthy_warning</item>
+        <item>@string/news_provider_noteworthy_warning</item>
+        <item>@string/news_provider_noteworthy_long_term</item>
     </string-array>
 </resources>
