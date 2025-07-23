@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays">
     <string-array name="twitter_screen_names_target">
-        <item>org.mtransit.android.ca_montreal_amt_train.gtfs.debug-5</item><!-- 14 -->
-        <item>org.mtransit.android.ca_montreal_amt_train.gtfs.debug-4</item><!-- 12 -->
-        <item>org.mtransit.android.ca_montreal_amt_train.gtfs.debug-6</item><!-- 15 -->
-        <item>org.mtransit.android.ca_montreal_amt_train.gtfs.debug-3</item><!-- 13 -->
-        <item>org.mtransit.android.ca_montreal_amt_train.gtfs.debug-1</item><!-- 11 -->
+        <item>org.mtransit.android.ca_montreal_amt_train.debug.gtfs-5</item><!-- 14 -->
+        <item>org.mtransit.android.ca_montreal_amt_train.debug.gtfs-4</item><!-- 12 -->
+        <item>org.mtransit.android.ca_montreal_amt_train.debug.gtfs-6</item><!-- 15 -->
+        <item>org.mtransit.android.ca_montreal_amt_train.debug.gtfs-3</item><!-- 13 -->
+        <item>org.mtransit.android.ca_montreal_amt_train.debug.gtfs-1</item><!-- 11 -->
         <item>@string/twitter_target_for_poi_authority</item>
     </string-array>
 </resources>
