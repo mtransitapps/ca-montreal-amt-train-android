@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays,Typos">
-    <integer name="twitter_db_version">8</integer>
+    <integer name="twitter_db_version">10</integer>
     <string name="twitter_target_for_poi_authority">@string/gtfs_rts_authority</string>
     <string-array name="twitter_screen_names">
-        <item>exo14_CA</item>
-        <item>exo12_SJ</item>
-        <item>exo15_MA</item>
-        <item>exo13_SH</item>
-        <item>exo11_VH</item>
-        <item>allo_exo</item><!-- similar to RSS-->
+        <!-- <item>exo14_CA</item> --><!-- service update -->
+        <!-- <item>exo12_SJ</item> --><!-- service update -->
+        <!-- <item>exo15_MA</item> --><!-- service update -->
+        <!-- <item>exo13_SH</item> --><!-- service update -->
+        <!-- <item>exo11_VH</item> --><!-- service update -->
+        <!-- <item>allo_exo</item> --><!-- similar to RSS-->
     </string-array>
     <string-array name="twitter_screen_names_id">
         <item>479694540</item>
