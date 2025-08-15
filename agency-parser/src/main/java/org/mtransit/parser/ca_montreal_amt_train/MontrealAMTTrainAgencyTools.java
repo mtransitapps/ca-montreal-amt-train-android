@@ -38,11 +38,6 @@ public class MontrealAMTTrainAgencyTools extends DefaultAgencyTools {
 		return LANG_FR;
 	}
 
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
-	}
-
 	@NotNull
 	@Override
 	public String getAgencyName() {
@@ -159,7 +154,7 @@ public class MontrealAMTTrainAgencyTools extends DefaultAgencyTools {
 		if (FeatureFlags.F_USE_GTFS_ID_HASH_INT) {
 			return EMPTY; // remove stop code (not visible on agency info) // super.getStopCode(gStop);
 		}
-		//noinspection deprecation
+		//noinspection DiscouragedApi
 		return gStop.getStopId(); // using stop ID as stop code (useful to match with GTFS real-time)
 	}
 
