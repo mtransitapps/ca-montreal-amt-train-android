@@ -151,11 +151,7 @@ public class MontrealAMTTrainAgencyTools extends DefaultAgencyTools {
 	@NotNull
 	@Override
 	public String getStopCode(@NotNull GStop gStop) {
-		if (FeatureFlags.F_USE_GTFS_ID_HASH_INT) {
-			return EMPTY; // remove stop code (not visible on agency info) // super.getStopCode(gStop);
-		}
-		//noinspection DiscouragedApi
-		return gStop.getStopId(); // using stop ID as stop code (useful to match with GTFS real-time)
+		return EMPTY; // remove stop code (not visible on agency info)
 	}
 
 	@Override
