@@ -141,7 +141,6 @@ public class MontrealAMTTrainAgencyTools extends DefaultAgencyTools {
 		return CleanUtils.cleanLabelFR(gStopName);
 	}
 
-
 	@Override
 	public @Nullable String getStopIdCleanupRegex() {
 		return "\\w{1}$"; // remove last letter (ex: Centrale #11010 is MTL5D or MTL5B -> MTL5)
