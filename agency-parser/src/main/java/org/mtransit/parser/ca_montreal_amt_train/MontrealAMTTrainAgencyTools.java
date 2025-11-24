@@ -63,6 +63,11 @@ public class MontrealAMTTrainAgencyTools extends DefaultAgencyTools {
 	}
 
 	@Override
+	public @Nullable String getServiceIdCleanupRegex() {
+		return "^TRAIN\\-\\w{1}\\d{2}\\-TRKPI\\-"; // remove beginning of service ID shared by all service IDs (include season letter and YY year)
+	}
+
+	@Override
 	public boolean defaultRouteIdEnabled() {
 		return true;
 	}
