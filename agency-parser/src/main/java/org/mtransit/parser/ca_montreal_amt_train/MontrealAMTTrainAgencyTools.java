@@ -151,6 +151,11 @@ public class MontrealAMTTrainAgencyTools extends DefaultAgencyTools {
 		return "\\w{1}$"; // remove last letter (ex: Centrale #11010 is MTL5D or MTL5B -> MTL5)
 	}
 
+	@Override
+	public boolean verifyStopIdsUniqueness() {
+		return false; // merging stops
+	}
+
 	@NotNull
 	@Override
 	public String getStopCode(@NotNull GStop gStop) {
