@@ -63,6 +63,11 @@ public class MontrealAMTTrainAgencyTools extends DefaultAgencyTools {
 	}
 
 	@Override
+	public @Nullable String getTripIdCleanupRegex() {
+		return "TRAIN\\-\\w{1}\\d{2}\\-TRKPI\\-"; // remove trip ID shared by all trip IDs (include season letter and YY year)
+	}
+
+	@Override
 	public @Nullable String getServiceIdCleanupRegex() {
 		return "^TRAIN\\-\\w{1}\\d{2}\\-TRKPI\\-"; // remove beginning of service ID shared by all service IDs (include season letter and YY year)
 	}
@@ -163,7 +168,29 @@ public class MontrealAMTTrainAgencyTools extends DefaultAgencyTools {
 	}
 
 	@Override
+	public boolean useStopCodeForStopId() {
+		return false; // TODO true later when getStopCode() does not return empty or not used
+	}
+
+	@Override
 	public int getStopId(@NotNull GStop gStop) {
-		return Integer.parseInt(gStop.getStopCode()); // use stop code as stop ID
+		final String stopCode = gStop.getStopCode();
+		if (CharUtils.isDigitsOnly(stopCode)) {
+			return Integer.parseInt(stopCode); // use stop code as stop ID
+		}
+		final Integer convertedStopId = convertStopIdFromCodeNotSupported(stopCode);
+		if (convertedStopId != null) {
+			return convertedStopId;
+		}
+		throw new MTLog.Fatal("Unexpected stop code '%s' for %s", stopCode, gStop.toStringPlus());
+	}
+
+	@Nullable
+	@Override
+	public Integer convertStopIdFromCodeNotSupported(@NotNull String stopCode) {
+		if (stopCode.startsWith("FA")) {
+			return 61_000_000 + Integer.parseInt(stopCode.substring(2));
+		}
+		return super.convertStopIdFromCodeNotSupported(stopCode);
 	}
 }
