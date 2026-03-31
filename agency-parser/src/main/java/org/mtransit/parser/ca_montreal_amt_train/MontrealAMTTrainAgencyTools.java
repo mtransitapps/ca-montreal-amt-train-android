@@ -178,7 +178,7 @@ public class MontrealAMTTrainAgencyTools extends DefaultAgencyTools {
 		if (CharUtils.isDigitsOnly(stopCode)) {
 			return Integer.parseInt(stopCode); // use stop code as stop ID
 		}
-		final Integer convertedStopId = convertStopIdFromCodeNotSupported(stopCode);
+		final Integer convertedStopId = convertStopIdNotSupported(stopCode);
 		if (convertedStopId != null) {
 			return convertedStopId;
 		}
