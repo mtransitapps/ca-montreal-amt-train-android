@@ -187,10 +187,10 @@ public class MontrealAMTTrainAgencyTools extends DefaultAgencyTools {
 
 	@Nullable
 	@Override
-	public Integer convertStopIdFromCodeNotSupported(@NotNull String stopCode) {
+	public Integer convertStopIdNotSupported(@NotNull String stopCode) {
 		if (stopCode.startsWith("FA")) {
 			return 61_000_000 + Integer.parseInt(stopCode.substring(2));
 		}
-		return super.convertStopIdFromCodeNotSupported(stopCode);
+		return super.convertStopIdNotSupported(stopCode);
 	}
 }
