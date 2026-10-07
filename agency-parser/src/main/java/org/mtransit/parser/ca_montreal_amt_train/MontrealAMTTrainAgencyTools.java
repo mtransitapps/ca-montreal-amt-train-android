@@ -24,7 +24,7 @@ import org.mtransit.parser.mt.data.MAgency;
 import java.util.List;
 import java.util.Locale;
 
-// https://exo.quebec/en/about/open-data
+// https://exo.quebec/fr/a-propos/donnees-ouvertes
 public class MontrealAMTTrainAgencyTools extends DefaultAgencyTools {
 
 	public static void main(@NotNull String[] args) {
