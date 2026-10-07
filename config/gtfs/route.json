@@ -1,0 +1,58 @@
+{
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": false,
+    "use_route_short_name_for_route_id_comment": "route ID used to target Twitter news",
+    "use_route_long_name_for_route_short_name": true,
+    "route_short_name_cleaners": [
+        {
+            "regex": "^(\\d+)\\s*-\\s*(.*)",
+            "replacement": "$1",
+            "comment": "extract route short name from route long name"
+        }
+    ],
+    "default_route_long_name_enabled": true,
+    "route_long_name_cleaners": [
+        {
+            "regex": "^(\\d+)\\s*-\\s*(.*)",
+            "replacement": "$2",
+            "comment": "remove route short name from route long name"
+        }
+    ],
+    "direction_finder_enabled": true,
+    "trip_id_cleanup_regex": "TRAIN\\-\\w{1}\\d{2}\\-TRKPI\\-",
+    "trip_id_cleanup_regex_comment": "remove trip ID shared by all trip IDs (include season letter and YY year)",
+    "trip_headsign_remove_via": true,
+    "trip_headsign_cleaners": [
+        {
+            "regex": "mont-saint-hilaire|mont-st-hilaire",
+            "ignore_case": true,
+            "is_word": true,
+            "replacement": "St-Hilaire",
+            "comment": "normalize Mont-Saint-Hilaire to St-Hilaire"
+        },
+        {
+            "regex": "(gare )",
+            "ignore_case": true,
+            "comment": "remove 'gare' from stop names"
+        }
+    ],
+    "stop_id_cleanup_regex": "\\w{1}$",
+    "stop_id_cleanup_regex_comment": "remove last letter (ex: Centrale #11010 is MTL5D or MTL5B -> MTL5)",
+    "stop_id_not_unique_allowed": true,
+    "stop_id_not_unique_allowed_comment": "merging stops",
+    "use_stop_code_for_stop_id": false,
+    "use_stop_code_for_stop_id_comment": "TODO true later when getStopCode() does not return empty or not used",
+    "stop_code_cleaners": [
+        {
+            "regex": ".*",
+            "comment": "remove stop code (not visible on agency info)"
+        }
+    ],
+    "stop_name_cleaners": [
+        {
+            "regex": "(gare )",
+            "ignore_case": true,
+            "comment": "remove 'gare' from stop names"
+        }
+    ]
+}
