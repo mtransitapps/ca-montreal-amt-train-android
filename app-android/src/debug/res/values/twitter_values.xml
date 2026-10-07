@@ -6,6 +6,6 @@
         <item>org.mtransit.android.ca_montreal_amt_train.debug.gtfs-6</item><!-- 15 -->
         <item>org.mtransit.android.ca_montreal_amt_train.debug.gtfs-3</item><!-- 13 -->
         <item>org.mtransit.android.ca_montreal_amt_train.debug.gtfs-1</item><!-- 11 -->
-        <item>@string/twitter_target_for_poi_authority</item>
+        <item />
     </string-array>
 </resources>
