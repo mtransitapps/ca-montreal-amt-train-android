@@ -40,8 +40,7 @@
     "stop_id_cleanup_regex_comment": "remove last letter (ex: Centrale #11010 is MTL5D or MTL5B -> MTL5)",
     "stop_id_not_unique_allowed": true,
     "stop_id_not_unique_allowed_comment": "merging stops",
-    "use_stop_code_for_stop_id": false,
-    "use_stop_code_for_stop_id_comment": "TODO true later when getStopCode() does not return empty or not used",
+    "use_stop_code_for_stop_id": true,
     "stop_code_cleaners": [
         {
             "regex": ".*",

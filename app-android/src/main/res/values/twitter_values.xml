@@ -22,7 +22,7 @@
         <item>CA5898</item>
         <item>999AC6</item>
         <item>F16179</item>
-        <item>@string/twitter_color</item>
+        <item />
     </string-array>
     <string-array name="twitter_screen_names_target">
         <item>org.mtransit.android.ca_montreal_amt_train.gtfs-5</item><!-- 14. CA -->
@@ -41,11 +41,11 @@
         <item>@integer/news_provider_severity_info_agency</item>
     </integer-array>
     <string-array name="twitter_screen_names_noteworthy">
-        <item>@string/news_provider_noteworthy_warning</item>
-        <item>@string/news_provider_noteworthy_warning</item>
-        <item>@string/news_provider_noteworthy_warning</item>
-        <item>@string/news_provider_noteworthy_warning</item>
-        <item>@string/news_provider_noteworthy_warning</item>
+        <item>@string/news_provider_noteworthy_info</item>
+        <item>@string/news_provider_noteworthy_info</item>
+        <item>@string/news_provider_noteworthy_info</item>
+        <item>@string/news_provider_noteworthy_info</item>
+        <item>@string/news_provider_noteworthy_info</item>
         <item>@string/news_provider_noteworthy_long_term</item>
     </string-array>
 </resources>
